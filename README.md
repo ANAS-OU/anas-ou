@@ -16,18 +16,19 @@
 # 📊 GitHub Stats:
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=anas-ou&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=anas-ou&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anas-ou&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-[![](https://visitcount.itsvg.in/api?id=anas-ou&icon=5&color=12)](https://visitcount.itsvg.in)
+![](https://github-readme-stats.vercel.app/api?username=anas-ou&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=anas-ou&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anas-ou&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
 ### 🔝 Top Contributed Repo
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=anas-ou&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+![](https://github-contributor-stats.vercel.app/api?username=anas-ou&limit=5&theme=dark&combine_all_yearly_contributions=true)<br/>
+[![](https://visitcount.itsvg.in/api?id=anas-ou&icon=5&color=12)](https://github.com/anas-ou)
 </div>
 
 ## 💰 You can help me by Donating
