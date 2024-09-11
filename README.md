@@ -27,8 +27,9 @@
 ## 🔝 Top Contributed Repo
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=anas-ou&limit=5&theme=dark&combine_all_yearly_contributions=true)<br/>
+![](https://github-contributor-stats.vercel.app/api?username=anas-ou&limit=5&theme=dark&combine_all_yearly_contributions=true)
 [![](https://visitcount.itsvg.in/api?id=anas-ou&icon=5&color=12)](https://github.com/anas-ou)
+
 </div>
 
 ## 💰 You can help me by Donating
